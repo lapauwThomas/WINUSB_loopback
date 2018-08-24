@@ -1,0 +1,15 @@
+D:\WorkingDirectory\Software\WinUSB test\Winusb\Winusb\bin\Debug\NLog.config
+D:\WorkingDirectory\Software\WinUSB test\Winusb\Winusb\bin\Debug\Winusb.exe.config
+D:\WorkingDirectory\Software\WinUSB test\Winusb\Winusb\bin\Debug\Winusb.exe
+D:\WorkingDirectory\Software\WinUSB test\Winusb\Winusb\bin\Debug\Winusb.pdb
+D:\WorkingDirectory\Software\WinUSB test\Winusb\Winusb\bin\Debug\NLog.dll
+D:\WorkingDirectory\Software\WinUSB test\Winusb\Winusb\bin\Debug\WinUSBNet.dll
+D:\WorkingDirectory\Software\WinUSB test\Winusb\Winusb\bin\Debug\NLog.xml
+D:\WorkingDirectory\Software\WinUSB test\Winusb\Winusb\bin\Debug\WinUSBNet.xml
+D:\WorkingDirectory\Software\WinUSB test\Winusb\Winusb\obj\Debug\Winusb.csprojResolveAssemblyReference.cache
+D:\WorkingDirectory\Software\WinUSB test\Winusb\Winusb\obj\Debug\Winusb.Properties.Resources.resources
+D:\WorkingDirectory\Software\WinUSB test\Winusb\Winusb\obj\Debug\Winusb.csproj.GenerateResource.Cache
+D:\WorkingDirectory\Software\WinUSB test\Winusb\Winusb\obj\Debug\Winusb.csproj.CoreCompileInputs.cache
+D:\WorkingDirectory\Software\WinUSB test\Winusb\Winusb\obj\Debug\Winusb.exe
+D:\WorkingDirectory\Software\WinUSB test\Winusb\Winusb\obj\Debug\Winusb.pdb
+D:\WorkingDirectory\Software\WinUSB test\Winusb\Winusb\obj\Debug\Winusb.Form1.resources
